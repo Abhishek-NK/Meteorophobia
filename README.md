@@ -54,4 +54,4 @@ $ sudo apt-get install python3.6
 
 ## Authors
 
-- **Abhishek Nand Kumar** -------- [Abhishek-NK](https://github.com/Abhishek-NK)
+- **Abi Nand Kumar** -------- [Abi-NK](https://github.com/Abi-NK)
